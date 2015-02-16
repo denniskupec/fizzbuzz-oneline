@@ -1,6 +1,6 @@
 # fizzbuzz-oneline
 
-'''
+```
 1
 2
 Fizz
@@ -101,4 +101,4 @@ Fizz
 98
 Fizz
 Buzz
-'''
+```
